@@ -33,6 +33,11 @@ A sleek, lightweight anime hub engineered specifically for Android. Built to del
 ### 📥 Offline Access
 *   **External Media Downloading:** Save and store content directly to your device for smooth, uninterrupted playback anytime, anywhere.
 
+### ☁️ Cloud Sync & Account
+*   **Cross-Device Progress Tracking:** Powered by a secure Firestore database backend to ensure your viewing history follows you anywhere.
+*   **Account Authentication:** Access personalized cloud functionality safely through a mandatory user login gateway.
+*   **Instant Manual Backups:** On-demand save features conveniently located directly within the anime information and watchlist dashboards to keep your data current.
+
 ---
 
 > [!NOTE]
